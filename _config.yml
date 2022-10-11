@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Fang (Frank) Sun"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Fang (Frank) Sun"
 description              : &description "personal description"
 url                      : https://academic.fangfranksun.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
