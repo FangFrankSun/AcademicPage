@@ -11,21 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in University of Virginia 2019-2023
+  * Double Major in Architecture and Computer Science
+  * GPA 3.95/4.00
 
-Work experience
+
+Work experience in Computer Science
 ======
-* Summer 2015: Research Assistant
-  * Github Universit
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Java Developer Intern in Alibaba, Hangzhou, China (2021.06 – 2021.09)
+  * Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
+  * Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lark Frontend Intern in Bytedance, Shanghai, China (2021.03 – 2021.06)
+  * Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs)
+  * Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
+
+* Project Assistant (PTA) in Roboticplus.AI, Shanghai, China (2020.05 - 2020.08)
+  * Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
+  * Assisted in the development of robot arms with C++, Java languages and programed their movements.
+
+* System Test Design Lead (PTA) in Apple, online, China (2017.10 - 2018.03)
+  * Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
+  * Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
+
+
+Work experience in Architecture
+======
+* Design Intern in HDR, Arlington, VA (2021.12 – 2022.01)
+  * Helped to draw analysis diagrams and recreate unit models for a children's hospital, using AutoCAD, BIM, Rhino and PS.
+  * Self designed and developed a series of iterations of facade for the project in the schematic design process with grasshopper.
+  * Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes.
+
+
   
 Skills
 ======
@@ -36,11 +53,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
   
 Talks
 ======
@@ -48,12 +67,14 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* test test
