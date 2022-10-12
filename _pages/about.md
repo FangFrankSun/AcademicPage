@@ -26,7 +26,7 @@ I am always looking for folks who are interested in aiding on ongoing or newly c
 If you have an idea and would like to see if I will be interested in helping out, please contact me!
 
 <h2>news</h2>
-- Jan 30, 2022      Personal website established
-- Oct 21, 2020      [Bilibili](https://space.bilibili.com/28145687) and [Youtube](https://www.youtube.com/channel/UC4XPHb4BGTt9V1TSoWhi2tQ) Channel establish for tutorials
+- Jan 30, 2022 &nbsp;&nbsp;&nbsp;&nbsp; Personal website established
+- Oct 21, 2020 &nbsp;&nbsp;&nbsp;&nbsp; [Bilibili](https://space.bilibili.com/28145687) and [Youtube](https://www.youtube.com/channel/UC4XPHb4BGTt9V1TSoWhi2tQ) Channel establish for tutorials
 
 
