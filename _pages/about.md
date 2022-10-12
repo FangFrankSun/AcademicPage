@@ -25,26 +25,6 @@ I am always looking for folks who are interested in aiding on ongoing or newly c
 
 If you have an idea and would like to see if I will be interested in helping out, please contact me!
 
-
-
-
-More
+News
 -----
-This is a test.
 
-**Markdown generator**
-
-***abc***
-****abc****
-*abc*
-
-I have also created xxx.
-
-
-How to edit your site's GitHub repository
-------
-
-
-For more information
-------
-More info about [test baidu](https://baidu.com).
