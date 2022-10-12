@@ -12,7 +12,7 @@ Hi! My name is Frank Sun, a senior student double majoring in [Architecture](htt
 
 I am also a chess national master with uscf rating 2359, and I have my own firm called [Hummer Education](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills. And now we started to do software development courses as well, with online tutorials in Chinese for most of them. 
 
-I am in <span style="font-family:Papyrus; font-size:10em;">LOVE!</span>
+I am in <span style="font-family:Papyrus; font-size:60em;">LOVE!</span>
 
 
 
