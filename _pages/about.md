@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Frank Sun, a senior student double majoring in [Architecture](https://www.arch.virginia.edu) and [Computer Science](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us) at the [University of Virginia](https://www.virginia.edu) (joined August 2019). I love both tracks and hope to design smart architecture in the near future as my major career goal.
+My name is Frank Sun, a senior student double majoring in [Architecture](https://www.arch.virginia.edu) and [Computer Science](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us) at the [University of Virginia](https://www.virginia.edu) (joined August 2019). I love both tracks and hope to design smart architecture in the near future as my major career goal.
 
 I am also a chess national master with uscf rating 2359, and I have my own firm called [Hummer Education](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills. And now we started to do software development courses as well, with online tutorials in Chinese for most of them. 
 
 I am always looking for folks who are interested in aiding on ongoing or newly created projects.
-* Please contact me at [fs3unu@virginia.edu] or [sun.fang@ieee.org]
+* Please contact me at **sun.fang@ieee.org**
 * Some of the ongoing projects:
   * Computation:
     * Firm webpage development (*php, js*)
