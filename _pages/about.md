@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
------
 <h2>About me</h2>
 My name is Frank Sun, a senior student double majoring in [Architecture](https://www.arch.virginia.edu) and [Computer Science](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us) at the [University of Virginia](https://www.virginia.edu) (joined August 2019). I love both tracks and hope to design smart architecture in the near future as my major career goal.
 
