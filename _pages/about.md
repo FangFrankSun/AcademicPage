@@ -16,12 +16,13 @@ I am always looking for folks who are interested in aiding on ongoing or newly c
 * Please contact me at fs3unu@virginia.edu or sun.fang@ieee.org
 * Some of the ongoing projects:
   * Computation:
-    ** Firm webpage development (php, js)
-    ** Web chess game (vue)
-    ** WeChat student-teacher management system (python, js, mysql)
+    * Firm webpage development (*php, js*)
+    * Web chess game (*vue, js, css*)
+    * WeChat student-teacher management system (*python, js, mysql*)
   * Architecture:
-    ** Smart parking garage design and development (3D modeling, java)
-	  ** Edgemere District Renovation (3D Modeling, ArcGIS)
+    * Smart parking garage design and development (*3D modeling, java*)
+    * Edgemere District Renovation (*3D Modeling, ArcGIS*)
+
 If you have an idea and would like to see if I will be interested in helping out, please contact me!
 
 
