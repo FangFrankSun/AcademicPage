@@ -86,3 +86,9 @@ Skills
 <font size = 3><ins>Drafting and Modeling Software:</ins> Rhinoceros, Grasshopper, Sketchup, AutoCAD, ArcGIS, Revit, BIM.</font>
 <font size = 3><ins>Prototyping Tools:</ins> 3-D Printing, Laser Cutting, CNC Printing, Wood/ Bamboo cutting.</font>
 <font size = 3><ins>Interests:</ins> 14th-year chess (National master), tennis, Rubik’s cube, biking, photography, drawing.
+
+Programming software: Java, Python, MATLAB, HTML.
+Visualization Software: Photoshop, Illustrator, InDesign, V-ray, Lumion, Enscape, keyshot.
+Drafting and Modeling Software: Rhinoceros, Grasshopper, Sketchup, AutoCAD, ArcGIS, Revit, BIM.
+Prototyping Tools: 3-D Printing, Laser Cutting, CNC Printing, Wood/ Bamboo cutting.
+Interests: 14th-year chess (National master), tennis, Rubik’s cube, biking, photography, drawing.
