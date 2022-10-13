@@ -43,7 +43,13 @@ Work experience in Architecture
   * Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes.
 
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
+ 
 Skills
 ======
 * Skill 1
@@ -52,28 +58,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+  
+  
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
   
 Service and leadership
 ======
