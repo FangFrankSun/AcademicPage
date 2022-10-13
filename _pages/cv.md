@@ -81,8 +81,8 @@ Other Experience
  
 Skills
 ---
-<font size = 3>Programming software: Java, Python, MATLAB, HTML.</font> 
-<font size = 3>Visualization Software: Photoshop, Illustrator, InDesign, V-ray, Lumion, Enscape, keyshot.</font> 
-<font size = 3>Drafting and Modeling Software: Rhinoceros, Grasshopper, Sketchup, AutoCAD, ArcGIS, Revit, BIM.</font> 
-<font size = 3>Prototyping Tools: 3-D Printing, Laser Cutting, CNC Printing, Wood/ Bamboo cutting.</font> 
+<font size = 3>Programming software: Java, Python, MATLAB, HTML.</font><br>
+<font size = 3>Visualization Software: Photoshop, Illustrator, InDesign, V-ray, Lumion, Enscape, keyshot.</font><br>
+<font size = 3>Drafting and Modeling Software: Rhinoceros, Grasshopper, Sketchup, AutoCAD, ArcGIS, Revit, BIM.</font><br>
+<font size = 3>Prototyping Tools: 3-D Printing, Laser Cutting, CNC Printing, Wood/ Bamboo cutting.</font><br>
 <font size = 3>Interests: 14th-year chess (National master), tennis, Rubik’s cube, biking, photography, drawing.</font> 
