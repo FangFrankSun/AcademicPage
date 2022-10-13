@@ -40,7 +40,7 @@ Work Experience in *Computer Science*
 
 Work experience in *Architecture*
 ---
-* <ins>Perkins&Will</ins>, Washington D.C.
+* <ins>Perkins&Will</ins>, *Washington D.C.*
   * Design Intern (2022.05 - 2022.08)
     * <font size = 3>Helped benchmark projects of UVA Gilmer Hall and Chemistry Building Renovation, created further templates in Revit.</font> 
     * <font size = 3>Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images.</font> 
@@ -57,7 +57,7 @@ Work experience in *Architecture*
     * <font size = 3>Helped Professor Zhang Lei categorize drawings and diagrams about Ruralation Museum Hotel for media.</font>                                                                                                                   
     * <font size = 3>Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros.</font> 
 
-* <ins>MAD Architects</ins>, Beijing, China
+* <ins>MAD Architects</ins>, *Beijing, China*
   * Assistant Architect, (2020.07 - 2020.12)
     * <font size = 3>Worked with Dang Qun and Ma Yansong, helped developed the circular circulation for the in-process project Jiaxing Civic Center, and finished the east wing first and second floor sections and image rendering.</font> 
     * <font size = 3>Assisted design and produced technical drawings for the public courtyard and nearby urban context in the project Pingtan Art Museum, edited multiple proposals and updated the second version project BIM Model.</font> 
