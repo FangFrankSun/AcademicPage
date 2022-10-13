@@ -15,6 +15,7 @@ Education
   * Double Major in Architecture and Computer Science
   * GPA 3.95/4.00
 
+<font size = 5> ttt </font>
 
 Work Experience in *Computer Science*
 ---
