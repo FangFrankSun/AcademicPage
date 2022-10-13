@@ -81,7 +81,7 @@ Other Experience
  
 Skills
 ---
-* <font size = 3><ins>Programming software:</ins> Java, Python, MATLAB, HTML.</font>
+* <font size = 3><ins>Programming Software:</ins> Java, Python, MATLAB, HTML.</font>
 * <font size = 3><ins>Visualization Software:</ins> Photoshop, Illustrator, InDesign, V-ray, Lumion, Enscape, keyshot.</font>
 * <font size = 3><ins>Drafting and Modeling Software:</ins> Rhinoceros, Grasshopper, Sketchup, AutoCAD, ArcGIS, Revit, BIM.</font>
 * <font size = 3><ins>Prototyping Tools:</ins> 3-D Printing, Laser Cutting, CNC Printing, Wood/ Bamboo cutting.</font>
