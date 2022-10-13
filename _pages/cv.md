@@ -15,7 +15,7 @@ Education
   * Double Major in Architecture and Computer Science
   * GPA 3.95/4.00
 
-<font size = 30> ttt </font>
+<font size = 0.2> ttt </font>
 
 Work Experience in *Computer Science*
 ---
@@ -53,6 +53,15 @@ Work experience in *Architecture*
   * Research Assistant (2021.01 – 2021.03)
     * Helped Professor Zhang Lei categorize drawings and diagrams about Ruralation Museum Hotel for media.                                                                                                                  
     * Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros.
+
+
+* MAD Architects, Beijing, China
+  * Assistant Architect, 2020.07 - 2020.12
+    * Worked with Dang Qun and Ma Yansong, helped developed the circular circulation for the in-process project Jiaxing Civic Center, and finished the east wing first and second floor sections and image rendering.
+    * Assisted design and produced technical drawings for the public courtyard and nearby urban context in the project Pingtan Art Museum, edited multiple proposals and updated the second version project BIM Model.
+    * Helped improve the UI design for the firm website, i-mad.com, proposed the menu tab to be set on the left side of the page, leaving the entire default webpage area for the project image.
+
+
 
 Teaching
 ======
