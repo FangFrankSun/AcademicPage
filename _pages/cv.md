@@ -19,8 +19,8 @@ Work Experience in *Computer Science*
 ---
 * **Alibaba Group Holding Limited**, *Hangzhou, China* 
   * Java Developer Intern (2021.06 – 2021.09)
-    * Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
-    * Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
+    * <font size = 3>Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.</font> 
+    * <font size = 3>Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.</font>
 
 * Beijing ByteDance Technology Co., Ltd, *Shanghai, China* 
   * Lark Frontend Intern (2021.03 – 2021.06)
