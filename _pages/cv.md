@@ -18,18 +18,20 @@ Education
 
 Work Experience in *Computer Science*
 ---
-* Alibaba Group Holding Limited , Hangzhou, China 
+* Alibaba Group Holding Limited, Hangzhou, China 
   * Java Developer Intern (2021.06 – 2021.09)
-  * Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
-  * Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
+    * Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
+    * Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
 
-* Lark Frontend Intern in Bytedance, Shanghai, China (2021.03 – 2021.06)
-  * Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs)
-  * Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
+* Beijing ByteDance Technology Co., Ltd, Shanghai, China 
+  * Lark Frontend Intern (2021.03 – 2021.06)
+    * Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs)
+    * Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
 
-* Project Assistant (PTA) in Roboticplus.AI, Shanghai, China (2020.05 - 2020.08)
-  * Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
-  * Assisted in the development of robot arms with C++, Java languages and programed their movements.
+* Roboticplus.AI, Shanghai, China 
+  * Project Assistant (2020.05 - 2020.08)
+    * Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
+    * Assisted in the development of robot arms with C++, Java languages and programed their movements.
 
 * System Test Design Lead (PTA) in Apple, online, China (2017.10 - 2018.03)
   * Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
