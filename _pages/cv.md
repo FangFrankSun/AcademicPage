@@ -18,6 +18,9 @@ Education
 <font size = 3> ttt </font>  ttt
 <font size = 4> ttt </font>
 <font size = 5> ttt </font>
+<font size = 6> ttt </font>
+<font size = 7> ttt </font>
+
 
 Work Experience in *Computer Science*
 ---
