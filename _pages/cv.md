@@ -12,7 +12,7 @@ redirect_from:
 Education
 ---
 * B.S. in University of Virginia 2019-2023
-  * Double Major in Architecture and Computer Science
+  * <font size = 4>Double Major in Architecture and Computer Science</font>
   * <font size = 3>GPA 3.95/4.00</font> 
 
 Work Experience in *Computer Science*
