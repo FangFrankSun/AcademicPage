@@ -46,7 +46,7 @@ Work experience in *Architecture*
     * Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images.
     * Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms.
 
-* HDR Inc., Arlington, VA 
+* HDR Inc., *Arlington, VA* 
   * Design Intern (2021.12 – 2022.01)
     * Helped to draw analysis diagrams and recreate unit models for a children's hospital, using AutoCAD, BIM, Rhino and PS.
     * Self designed and developed a series of iterations of facade for the project in the schematic design process with grasshopper.
@@ -63,7 +63,20 @@ Work experience in *Architecture*
     * Assisted design and produced technical drawings for the public courtyard and nearby urban context in the project Pingtan Art Museum, edited multiple proposals and updated the second version project BIM Model.
     * Helped improve the UI design for the firm website, i-mad.com, proposed the menu tab to be set on the left side of the page, leaving the entire default webpage area for the project image.
 
+Other Experience
+---
+* ETCP Co., Ltd., *Beijing, China*
+  * Project Initiator/ Leader (PTA) (2016.10 - 2018.03)
+    * Organized a team of eight to research the parking issue in Shanghai.
+    * Developed the new parking system prototype, redesigned the public parking space with Rhino and BIM.
+    * Installed devices in garages in designed, publicized the application in AppStore and Google Play.
+    * Applied and received the national patent (201721325329.0).
 
+* LittleHummerChess Team, *Shanghai, China*
+    * Chief Executive Officer (CEO) (2019.04 – Now)
+      * Created chess education company to teach people from all ages chess playing.
+      * Self-made 270+ tutorial videos on Youtube, TikTok, Bilibili, etc, online, with more than 300,000 subscribers.
+      * Self-programmed chess playing website and mini-program in WeChat with Node.js and React.
 
 Teaching
 ======
