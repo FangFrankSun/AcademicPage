@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>About me</h2>
+<h2>Education</h2>
 * B.S. in University of Virginia 2019-2023
   * Double Major in Architecture and Computer Science
   * GPA 3.95/4.00
