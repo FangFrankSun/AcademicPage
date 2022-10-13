@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-=====
+---
 * B.S. in University of Virginia 2019-2023
   * Double Major in Architecture and Computer Science
   * GPA 3.95/4.00
@@ -33,17 +33,19 @@ Work Experience in *Computer Science*
     * Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software.
     * Assisted in the development of robot arms with C++, Java languages and programed their movements.
 
-* System Test Design Lead (PTA) in Apple, online, China (2017.10 - 2018.03)
-  * Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
-  * Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
+* Apple Inc, online, China
+  * System Test Design Lead (PTA) (2017.10 - 2018.03)
+    * Attended iOS Developer Program, reviewing system functionality with data collection and API testing.
+    * Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts.
 
 
 Work experience in *Architecture*
-----
-* Design Intern in HDR, Arlington, VA (2021.12 – 2022.01)
-  * Helped to draw analysis diagrams and recreate unit models for a children's hospital, using AutoCAD, BIM, Rhino and PS.
-  * Self designed and developed a series of iterations of facade for the project in the schematic design process with grasshopper.
-  * Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes.
+---
+* HDR Inc, Arlington, VA 
+  * Design Intern (2021.12 – 2022.01)
+    * Helped to draw analysis diagrams and recreate unit models for a children's hospital, using AutoCAD, BIM, Rhino and PS.
+    * Self designed and developed a series of iterations of facade for the project in the schematic design process with grasshopper.
+    * Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes.
 
 
 * Research Assistant in AZL Architects in Southeast University,                                                                                                                    * Nanjing, China
