@@ -9,7 +9,7 @@ redirect_from:
 ---
 <h2>About me</h2>
 <font size = 3>My name is Frank Sun, a senior student double majoring in [Architecture](https://www.arch.virginia.edu) and [Computer Science](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us) at the [University of Virginia](https://www.virginia.edu) (joined August 2019). I love both tracks and hope to design smart architecture in the near future as my major career goal. </font>
-
+</br>
 <font size = 3>I am also a chess national master with uscf rating 2359, and I have my own firm called [Hummer Education](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills. And now we started to do software development courses as well, with online tutorials in Chinese for most of them. </font>
 
 I am always looking for folks who are interested in aiding on ongoing or newly created projects.
