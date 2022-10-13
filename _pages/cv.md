@@ -42,18 +42,22 @@ Work Experience in *Computer Science*
 
 Work experience in *Architecture*
 ---
+* Perkins&Will, Washington D.C.
+  * Design Intern (2022.05 - 2022.08)
+    * Helped benchmark projects of UVA Gilmer Hall and Chemistry Building Renovation, created further templates in Revit.
+    * Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images.
+    * Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms.
+
 * HDR Inc., Arlington, VA 
   * Design Intern (2021.12 – 2022.01)
     * Helped to draw analysis diagrams and recreate unit models for a children's hospital, using AutoCAD, BIM, Rhino and PS.
     * Self designed and developed a series of iterations of facade for the project in the schematic design process with grasshopper.
     * Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes.
 
-
 * AZL Architects in Southeast University, *Nanjing, China*
   * Research Assistant (2021.01 – 2021.03)
     * Helped Professor Zhang Lei categorize drawings and diagrams about Ruralation Museum Hotel for media.                                                                                                                  
     * Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros.
-
 
 * MAD Architects, Beijing, China
   * Assistant Architect, 2020.07 - 2020.12
