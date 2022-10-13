@@ -15,7 +15,7 @@ Education
   * Double Major in Architecture and Computer Science
   * GPA 3.95/4.00
 
-<font size = 5> ttt </font>
+<font size = 30> ttt </font>
 
 Work Experience in *Computer Science*
 ---
@@ -49,11 +49,10 @@ Work experience in *Architecture*
     * Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes.
 
 
-* Research Assistant in AZL Architects in Southeast University,                                                                                                                    * Nanjing, China
-  *                                                                                                                                                      2021.01 – 2021.03
-	Helped Professor Zhang Lei categorize drawings and diagrams about Ruralation Museum Hotel for media.
-	Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros.
-
+* AZL Architects in Southeast University, *Nanjing, China*
+  * Research Assistant (2021.01 – 2021.03)
+    * Helped Professor Zhang Lei categorize drawings and diagrams about Ruralation Museum Hotel for media.                                                                                                                  
+    * Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros.
 
 Teaching
 ======
