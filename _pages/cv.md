@@ -58,7 +58,7 @@ Work experience in *Architecture*
     * <font size = 3>Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros.</font> 
 
 * <ins>MAD Architects<ins>, Beijing, China
-  * Assistant Architect, 2020.07 - 2020.12
+  * Assistant Architect, (2020.07 - 2020.12)
     * <font size = 3>Worked with Dang Qun and Ma Yansong, helped developed the circular circulation for the in-process project Jiaxing Civic Center, and finished the east wing first and second floor sections and image rendering.</font> 
     * <font size = 3>Assisted design and produced technical drawings for the public courtyard and nearby urban context in the project Pingtan Art Museum, edited multiple proposals and updated the second version project BIM Model.</font> 
     * <font size = 3>Helped improve the UI design for the firm website, i-mad.com, proposed the menu tab to be set on the left side of the page, leaving the entire default webpage area for the project image.</font> 
@@ -78,25 +78,11 @@ Other Experience
       * <font size = 3>Self-made 270+ tutorial videos on Youtube, TikTok, Bilibili, etc, online, with more than 300,000 subscribers.</font> 
       * <font size = 3>Self-programmed chess playing website and mini-program in WeChat with Node.js and React.</font> 
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
  
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
-  
-
-  
-Service and leadership
-======
-* test test
+---
+<font size = 3>Programming software: Java, Python, MATLAB, HTML.</font> 
+<font size = 3>Visualization Software: Photoshop, Illustrator, InDesign, V-ray, Lumion, Enscape, keyshot.</font> 
+<font size = 3>Drafting and Modeling Software: Rhinoceros, Grasshopper, Sketchup, AutoCAD, ArcGIS, Revit, BIM.</font> 
+<font size = 3>Prototyping Tools: 3-D Printing, Laser Cutting, CNC Printing, Wood/ Bamboo cutting.</font> 
+<font size = 3>Interests: 14th-year chess (National master), tennis, Rubik’s cube, biking, photography, drawing.</font> 
