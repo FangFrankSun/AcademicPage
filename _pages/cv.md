@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>Education</h2>
+Education
+=====
 * B.S. in University of Virginia 2019-2023
   * Double Major in Architecture and Computer Science
   * GPA 3.95/4.00
 
 
-<h2>Work Experience in *Computer Science*</h2>
+Work Experience in *Computer Science*
+=====
 * Java Developer Intern in Alibaba, Hangzhou, China (2021.06 – 2021.09)
   * Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun.
   * Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services.
