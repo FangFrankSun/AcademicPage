@@ -24,8 +24,8 @@ Work Experience in *Computer Science*
 
 * Beijing ByteDance Technology Co., Ltd, *Shanghai, China* 
   * Lark Frontend Intern (2021.03 – 2021.06)
-    * Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs)
-    * Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.
+    * <font size = 3>Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs)</font> 
+    * <font size = 3>Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users.</font> 
 
 * Roboticplus.AI, *Shanghai, China* 
   * Project Assistant (2020.05 - 2020.08)
