@@ -1,6 +1,6 @@
 ---
 title: "Shading Snake"
-excerpt: "The snaking is moving quickly, can you see it?<br/><img src='/images/snake1.png'>"
+excerpt: "The snaking is moving quickly, can you see it?<br/><img src='/images/snake2.png'>"
 collection: portfolio
 ---
 
