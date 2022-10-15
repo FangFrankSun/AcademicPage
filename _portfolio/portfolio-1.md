@@ -1,6 +1,6 @@
 ---
 title: "Shading Snake"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "The snaking is moving quickly, can you see it?<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
