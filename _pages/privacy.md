@@ -1,6 +1,6 @@
 ---
-permalink: /terms/
-title: "Terms of Use"
+permalink: /privacy/
+title: "Privacy Policy"
 modified: 2016-06-06
 ---
 
