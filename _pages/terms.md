@@ -37,7 +37,6 @@ As a user of the Site, you agree not to:
 - Circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
 - Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
 - Use any information obtained from the Site in order to harass, abuse, or harm another person.
-- Make improper use of our support services or submit false reports of abuse or misconduct.
 - Use the Site in a manner inconsistent with any applicable laws or regulations.
 - Engage in unauthorized framing of or linking to the Site.
 - Upload or transmit  (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party's uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
@@ -51,7 +50,6 @@ As a user of the Site, you agree not to:
 - Copy or adapt the Site's software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
 - Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Site.
 - Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
-- Use a buying agent or purchasing agent to make purchases on the Site.
 - Make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
 - Use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.
 
