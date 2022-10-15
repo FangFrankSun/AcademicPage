@@ -7,8 +7,6 @@ modified: 2022-10-15
 {% include base_path %}
 {% include toc %}
 
-test
-
 ## Privacy Policy
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
