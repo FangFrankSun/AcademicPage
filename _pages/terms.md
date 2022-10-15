@@ -29,6 +29,35 @@ By using the Site, you represent and warrant that:  (1) you have the legal capac
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site  (or any portion thereof).
 
 
+### PROHIBITED ACTIVITIES
+
+You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+
+As a user of the Site, you agree not to:
+
+ - Systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+- Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
+- Circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
+- Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
+- Use any information obtained from the Site in order to harass, abuse, or harm another person.
+- Make improper use of our support services or submit false reports of abuse or misconduct.
+- Use the Site in a manner inconsistent with any applicable laws or regulations.
+- Engage in unauthorized framing of or linking to the Site.
+- Upload or transmit  (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party's uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
+- Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+- Delete the copyright or other proprietary rights notice from any Content.
+- Attempt to impersonate another user or person or use the username of another user.
+- Upload or transmit  (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ("gifs"), 1x1 pixels, web bugs, cookies, or other similar devices  (sometimes referred to as"spyware"or "passive collection mechanisms"or "pcms").
+- Interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
+- Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site to you.
+- Attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.
+- Copy or adapt the Site's software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
+- Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Site.
+- Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
+- Use a buying agent or purchasing agent to make purchases on the Site.
+- Make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+- Use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.
+
 ### Site Management
 
 We reserve the right, but not the obligation, to:  (1) monitor the Site for violations of these Terms of Use;  (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Use, including without limitation, reporting such user to law enforcement authorities;  (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable  (to the extent technologically feasible) any of your Contributions or any portion thereof;  (4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
