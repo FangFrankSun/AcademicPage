@@ -1,7 +1,7 @@
 ---
 permalink: /privacy/
 title: "Privacy Policy"
-modified: 2016-06-06
+modified: 2022-10-15
 ---
 
 {% include base_path %}
