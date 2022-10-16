@@ -9,7 +9,7 @@ modified: 2022-10-14
 
 ## Agreement to Terms
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity  ("you") and others ("Company, ""we, ""us, "or "our"), concerning your access to and use of the [https://academic.fangfranksun.com](https://academic.fangfranksun.com) website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto  (collectively, the "Site").
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity  ("you") and the author Frank ("Company, ""we, ""us, "or "our"), concerning your access to and use of the [https://academic.fangfranksun.com](https://academic.fangfranksun.com) website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto  (collectively, the "Site").
 
 The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
