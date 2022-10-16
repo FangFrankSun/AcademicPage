@@ -17,7 +17,7 @@ This privacy notice will help you understand your privacy rights and choices. If
 
 ### Personal information you disclose to us
 
-*In Short:* We collect personal information that you provide to us.
+***In Short**: We collect personal information that you provide to us.*
 
 We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
@@ -27,9 +27,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 ### Information automatically collected
 
-*In Short:* Some information — such as your Internet Protocol  (IP) address and/or
-
-browser and device characteristics-is collected automatically when you visit our Services.
+***In Short:** Some information -- such as your Internet Protocol  (IP) address and/or browser and device characteristics -- is collected automatically when you visit our Services.*
 
 We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity  (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language
 
