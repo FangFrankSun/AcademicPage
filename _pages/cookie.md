@@ -7,13 +7,13 @@ modified: 2022-10-16
 {% include base_path %}
 {% include toc %}
 
-This Cookie Policy explains how the author ("Company", "we", "us", and "our") uses cookies and similar technologies to recognize you when you visit our websites at [https://academic.fangfranksun.com](https://academic.fangfranksun.com),  ("Websites"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
+This Cookie Policy explains how the author Frank ("Company", "we", "us", and "our") uses cookies and similar technologies to recognize you when you visit our websites at [https://academic.fangfranksun.com](https://academic.fangfranksun.com),  ("Websites"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
 
 ## What are cookies?
 
 Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
 
-Cookies set by the website owner  (in this case, yyy) are called "first party cookies". Cookies set by parties other than the website owner are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the website  (e. G. Like advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
+Cookies set by the website owner  (in this case, Frank) are called "first party cookies". Cookies set by parties other than the website owner are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the website  (e. G. Like advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
 
 ## Why do we use cookies?
 
