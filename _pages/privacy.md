@@ -7,15 +7,13 @@ modified: 2022-10-15
 {% include base_path %}
 {% include toc %}
 
-
-## General
 This privacy notice for the author Frank ("Company, ""we, " "us, "or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services  ("Services").
 
 This privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. 
 
 ## WHAT INFORMATION DO WE COLLECT?
 
-### Personal information you disclose to us
+### Personal Information You Disclose to Us
 
 ***In Short**: We collect personal information that you provide to us.*
 
@@ -25,7 +23,7 @@ We collect personal information that you voluntarily provide to us when you regi
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-### Information automatically collected
+### Information Automatically Collected
 
 ***In Short:** Some information -- such as your Internet Protocol  (IP) address and/or browser and device characteristics -- is collected automatically when you visit our Services.*
 
