@@ -7,6 +7,48 @@ modified: 2022-10-15
 {% include base_path %}
 {% include toc %}
 
+
+## General
+This privacy notice for the author Frank ("Company, ""we, " "us, "or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services  ("Services").
+
+This privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. 
+
+## WHAT INFORMATION DO WE COLLECT?
+
+### Personal information you disclose to us
+
+*In Short:* We collect personal information that you provide to us.
+
+We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+
+**Sensitive Information.** We do not process sensitive information.
+
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+
+### Information automatically collected
+
+*In Short:* Some information — such as your Internet Protocol  (IP) address and/or
+
+browser and device characteristics-is collected automatically when you visit our Services.
+
+We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity  (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language
+
+preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
+
+Like many businesses, we also collect information through cookies and similar technologies.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Privacy Policy
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
